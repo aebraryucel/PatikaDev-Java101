@@ -1,5 +1,18 @@
 import java.util.Scanner;
 
+//Java'da döngüler kullanarak yıldızlar ile elmas yapan program.
+//      *
+//     ***
+//    *****
+//   *******
+//  *********
+//   *******
+//    *****
+//     ***
+//      *
+
+
+
 public class Stars {
 
     public static void main(String Args[]) {
